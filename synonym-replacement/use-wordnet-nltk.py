@@ -40,7 +40,7 @@ def replace_all_words_within(sentence):
 
 if __name__ == '__main__':
     sentences = [
-        "The technology can be used to investigate how many active wild animals there are in the field."]
+        "Can be used in amusement parks or anywhere else to find children who are lost by looking at specific characteristics with how they walk and their size/shape."]
     for sentence in sentences:
         print(sentence)
         print(replace_all_words_within(sentence))
